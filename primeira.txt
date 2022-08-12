@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Deus e fiel Brasil
+=======
+Deus e fiel
+
+Vai corinthians
+
+>>>>>>> 467c1049f9153af8b99004430492e3d1b286fc54
